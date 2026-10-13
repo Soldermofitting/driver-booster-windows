@@ -4,8 +4,13 @@
 
 IObit Driver Booster · MoggyDay · 14.0 · v14.0.0.444
 
-# IObit Driver Booster 14.0 “Pro for Windows: driver scan and updates” [v14.0.0.444]
+# IObit Driver Booster 14.0 “for Windows: driver scan and updates” [v14.0.0.444]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/driver-booster"><img src="docs/media/shot-1.jpg" alt="scan" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/driver-booster"><img src="docs/media/shot-2.jpg" alt="list" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/driver-booster"><img src="docs/media/shot-3.jpg" alt="driver" width="280"></a>
+</p>
 <p><img src="docs/media/logos/driver-booster.svg" alt="IObit Driver Booster" height="48"></p>
 
 MoggyDay keeps one stable URL for IObit Driver Booster: EN / RU. Scan and update drivers. 41 MB, Windows x64.
