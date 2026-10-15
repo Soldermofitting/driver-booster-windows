@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/driver-booster-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/driver-booster-windows/?lang=en) · [Русский](https://soldermofitting.github.io/driver-booster-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/driver-booster"><img src="docs/media/preview.jpg" alt="Driver Booster preview" width="640"></a>
+</p>
+
 IObit Driver Booster · MoggyDay · 14.0 · v14.0.0.444
 
 # IObit Driver Booster 14.0 “for Windows: driver scan and updates” [v14.0.0.444]
