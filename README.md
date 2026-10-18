@@ -23,7 +23,7 @@ MoggyDay keeps one stable URL for IObit Driver Booster: EN / RU. Scan and update
 
 1. Open [IObit Driver Booster EN](https://moggydayprogram.com/en/programs/driver-booster) or [IObit Driver Booster RU](https://moggydayprogram.com/programs/driver-booster).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Press **Download** on that card. The file is only on moggydayprogram.com — not in this repo.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
